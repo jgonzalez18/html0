@@ -31,6 +31,7 @@ nav a:link{
 	color:#000000;
 	text-decoration: none;
 	margin-right: 20px;
+	margin-top: 20px;
 }
 
 nav a:visited{
@@ -44,3 +45,12 @@ color: rgba(0,0,0,1.00);
 nav a:active{
 	text-decoration: underline;
 }
+
+.left{
+	width:300px;
+	float:left;
+	margin-top: 30px;
+	margin-bottom: 30px;
+		
+}
+
