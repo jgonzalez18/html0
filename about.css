@@ -1,0 +1,45 @@
+@charset "UTF-8";
+/* CSS Document*/
+
+body{
+	width: 900px;
+	height:auto;
+	margin: 0 auto;
+	background-color: #8EA868;
+	
+	
+	
+}
+
+nav{
+	width:100%;
+	text-align: center;
+}
+nav ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+nav li{
+	display: inline;
+}
+
+nav a:link{
+	font-family: haboro-contrast-normal, sans-serif; font-weight: 200; font-style: normal;
+	color:#000000;
+	text-decoration: none;
+	margin-right: 20px;
+}
+
+nav a:visited{
+	
+}
+
+nav a:hover{ 
+color: rgba(0,0,0,1.00);
+}
+
+nav a:active{
+	text-decoration: underline;
+}
+
