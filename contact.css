@@ -64,6 +64,15 @@ nav a:active{
 }
 
 
+.center{
+	float: left;
+	margin-top:100px;
+	font-family: haboro-contrast-normal, sans-serif; 
+	font-size: 18px;
+	
+	
+}
+
 footer{
 	text-align: center;
 	color: rgba(0);

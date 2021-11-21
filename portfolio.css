@@ -43,3 +43,32 @@ color: rgba(0,0,0,1.00);
 nav a:active{
 	text-decoration: underline;
 }
+
+.images{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	
+}
+
+.box1{
+	flex: 1;
+	
+	
+}
+
+.box2{
+	flex:1;
+	
+	
+}
+
+.box3{
+	flex:1;
+	
+}
+
+.box4{
+	flex:1;
+	
+}
