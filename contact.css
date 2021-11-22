@@ -73,6 +73,14 @@ nav a:active{
 	
 }
 
+form{
+	font-family: haboro-contrast-normal, sans-serif; 
+	font-size: 18px;
+	text-align: center
+	
+	
+}
+
 footer{
 	text-align: center;
 	color: rgba(0);
