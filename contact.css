@@ -59,13 +59,14 @@ nav a:active{
 	float:right;
 	margin-left: 100px;
 	margin-top: 30px;
+	margin-bottom: 170px;
 	font-family: haboro-contrast-normal, sans-serif; 
 	font-size: 18px;
 }
 
 
 .center{
-	float: left;
+	float: center;
 	margin-top:100px;
 	font-family: haboro-contrast-normal, sans-serif; 
 	font-size: 18px;
@@ -76,12 +77,23 @@ nav a:active{
 form{
 	font-family: haboro-contrast-normal, sans-serif; 
 	font-size: 18px;
-	text-align: center
+	align-content: center;
+	float: center;
+	margin-top: 10px;
+	margin-bottom: 50px;
 	
 	
 }
 
+
+.logo{
+	float:right;
+	margin-top: 100px;
+	align-self: center;
+}
+
 footer{
+	margin-bottom: 20px;
 	text-align: center;
 	color: rgba(0);
 	clear:both;
