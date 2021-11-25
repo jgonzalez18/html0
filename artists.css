@@ -63,13 +63,32 @@ nav a:active{
 }
 
 .left-2{
-	width:400px;
-	float:left;
-	margin-top: 30px;
-	margin-bottom: 30px;
+	width:350px;
+	margin-top: 250px;
+	align-items: flex-start;
+	float: right;
+	
+
 }
 
-.right{
+.right-2{
+	width:400px;
+	float:left;
+	margin-left: 100px;
+	margin-top: 30px;
+	font-family: haboro-contrast-normal, sans-serif; 
+	font-size: 18px;
+}
+
+.left-3{
+	width:400px;
+	float:left;
+	margin-top: 250px;
+	margin-bottom: 30px;
+	
+}
+
+.right-3{
 	width:400px;
 	float:right;
 	margin-left: 100px;
@@ -78,6 +97,22 @@ nav a:active{
 	font-size: 18px;
 }
 
+
+.left-4{
+	width:350px;
+	margin-top: 290px;
+	align-items: flex-start;
+	float: right;
+}
+
+.right-4{
+	width:400px;
+	float:left;
+	margin-left: 100px;
+	margin-top: 30px;
+	font-family: haboro-contrast-normal, sans-serif; 
+	font-size: 18px;
+}
 	
 footer{
 	text-align: center;
