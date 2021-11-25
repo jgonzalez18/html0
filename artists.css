@@ -101,6 +101,7 @@ nav a:active{
 .left-4{
 	width:350px;
 	margin-top: 290px;
+	margin-bottom: 100px;
 	align-items: flex-start;
 	float: right;
 }
@@ -115,6 +116,8 @@ nav a:active{
 }
 	
 footer{
+	margin-top: 100px;
+	margin-bottom: 20px;
 	text-align: center;
 	color: rgba(0);
 	clear:both;
