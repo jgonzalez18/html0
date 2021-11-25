@@ -60,3 +60,13 @@ nav a:active{
 	font-family: haboro-contrast-normal, sans-serif; 
 	font-size: 18px;
 }
+
+
+
+
+footer{
+	margin-bottom: 20px;
+	text-align: center;
+	color: rgba(0);
+	clear:both;
+	font-family: haboro-contrast-normal, sans-serif; font-weight: 200; font-style: normal;
