@@ -44,6 +44,16 @@ nav a:active{
 }
 
 
+
+.left{
+	width: 400px;
+	margin-left: 100px;
+	margin-top: 30px;
+	font-family: haboro-contrast-normal, sans-serif; 
+	font-size: 18px; 
+	
+}
+
 .images{
 	display: flex;
 	flex-wrap: wrap;
