@@ -11,9 +11,10 @@ body{
 
 #banner{
 	background:url("images/banner1.jpg")no-repeat;
+	align-items: center;
 	width:1200px;
 	height:307px;
-	margin-left: 10%;
+
 }
 
 #body{
