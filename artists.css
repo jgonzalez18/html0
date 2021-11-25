@@ -45,43 +45,39 @@ nav a:active{
 
 
 
-.left{
-	width: 400px;
+.left-1{
+	width:400px;
+	float:left;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	
+}
+
+.right-1{
+	width:400px;
+	float:right;
 	margin-left: 100px;
 	margin-top: 30px;
 	font-family: haboro-contrast-normal, sans-serif; 
-	font-size: 18px; 
-	
+	font-size: 18px;
 }
 
-.images{
-	display: flex;
-	flex-wrap: wrap;
-	align-items: center;
-	
+.left-2{
+	width:400px;
+	float:left;
+	margin-top: 30px;
+	margin-bottom: 30px;
 }
 
-.box1{
-	flex: 1;
-	
-	
+.right{
+	width:400px;
+	float:right;
+	margin-left: 100px;
+	margin-top: 30px;
+	font-family: haboro-contrast-normal, sans-serif; 
+	font-size: 18px;
 }
 
-.box2{
-	flex:1;
-	
-	
-}
-
-.box3{
-	flex:1;
-	
-}
-
-.box4{
-	flex:1;
-	
-}
 	
 footer{
 	text-align: center;
