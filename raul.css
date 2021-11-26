@@ -1,5 +1,5 @@
 @charset "UTF-8";
-/* CSS Document*/
+/* CSS Document */
 
 body{
 	
@@ -12,6 +12,7 @@ body{
 nav{
 	width:100%;
 	text-align: center;
+	margin-top: 20px;
 }
 nav ul{
 	list-style-type: none;
@@ -56,11 +57,22 @@ nav a:active{
 	width:400px;
 	float:right;
 	margin-left: 100px;
-	margin-top: 30px;
+	margin-top: 10px;
 	font-family: haboro-contrast-normal, sans-serif; 
 	font-size: 18px;
 }
 
+
+.images{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	font-family: haboro-contrast-normal, sans-serif; 
+	font-size: 18px;
+	margin-top: 300px;
+}
+	
+}
 
 
 
