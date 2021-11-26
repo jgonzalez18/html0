@@ -63,13 +63,21 @@ nav a:active{
 }
 
 
+.works{
+	text-align: center;
+	font-family: haboro-contrast-normal, sans-serif; 
+	font-size: 18px;
+	margin-top: 300px;
+}
+
+
 .images{
 	display: flex;
 	flex-wrap: wrap;
 	align-items: center;
 	font-family: haboro-contrast-normal, sans-serif; 
 	font-size: 18px;
-	margin-top: 300px;
+	margin-top: 50px;
 }
 	
 }
