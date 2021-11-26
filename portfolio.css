@@ -110,6 +110,29 @@ nav a:active{
 }
 
 
+.images2{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+	align-items:center;
+	font-family: haboro-contrast-normal, sans-serif; 
+	font-size: 18px;
+	margin-top: 40px;
+	margin-bottom: 20px;
+}
+
+.pic1{
+	margin-bottom: 50px;
+}
+
+.pic2{
+	margin-bottom: 50px;
+}
+
+.pic3{
+	margin-bottom: 50px;
+}
+
 .request{
 	text-align: center;
 	font-family: haboro-contrast-normal, sans-serif; 
