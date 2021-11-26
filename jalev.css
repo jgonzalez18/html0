@@ -9,9 +9,10 @@ body{
 	
 }
 
-#banner{
+.banner{
 	background:url("images/banner1.jpg")no-repeat;
 	float: center;
+	width:100%;
 	height:307px;
 
 }
