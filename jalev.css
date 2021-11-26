@@ -12,7 +12,6 @@ body{
 #banner{
 	background:url("images/banner1.jpg")no-repeat;
 	float: center;
-	width:100%;
 	height:307px;
 
 }
@@ -77,7 +76,7 @@ nav a:active{
 }
 
 
-h4{
+h3{
 	margin-top: 300px;
 	font-family: haboro-contrast-normal, sans-serif; font-weight: 200; font-style: normal;
 }
