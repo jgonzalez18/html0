@@ -83,6 +83,8 @@ nav a:active{
 	flex-basis: 20%;
 	align-items: center;
 	margin-top: 50px;
+	font-family: haboro-contrast-normal, sans-serif; 
+	font-size: 15px;
 	
 }
 
