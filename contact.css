@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /* CSS Document */
-@media (min-width:468px){
+
 body{
 	width: 900px;
 	height:auto;
@@ -129,7 +129,4 @@ footer{
 	clear:both;
 	font-family: haboro-contrast-normal, sans-serif; font-weight: 200; font-style: normal;
 		
-}
-
-
 }
