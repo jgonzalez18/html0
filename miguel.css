@@ -97,6 +97,13 @@ nav a:active{
 }
 
 
+
+.logo{
+	text-align: center;
+	margin-bottom: 5px;
+}
+
+
 footer{
 	margin-bottom: 20px;
 	text-align: center;
