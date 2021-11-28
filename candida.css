@@ -1,5 +1,6 @@
 @charset "UTF-8";
 /* CSS Document */
+@media(min-width:468px) {
 
 body{
 	
@@ -111,4 +112,7 @@ footer{
 	color: rgba(0);
 	clear:both;
 	font-family: haboro-contrast-normal, sans-serif; font-weight: 200; font-style: normal;
+}
+
+	
 }
