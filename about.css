@@ -1,12 +1,6 @@
 @charset "UTF-8";
 /* CSS Document */
-@media only screen 
-  and (min-device-width: 414px) 
-  and (max-device-width: 736px) 
-  and (-webkit-min-device-pixel-ratio: 3) { 
-
-
-
+@media(min-width:466px) {
 
 	
 body{
