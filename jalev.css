@@ -84,8 +84,13 @@ h3{
 }
 
 
-iframe{
+.video{
 	align-content: center;
+	text-align: center;
+}
+
+iframe{
+	align-content: right;
 	margin-bottom: 20px;
 }
 
